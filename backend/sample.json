@@ -1,0 +1,44 @@
+[
+  {
+    "room": "Room A",
+    "date": "2024-06-10",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "user": "Alice"
+  },
+  {
+    "room": "Room B",
+    "date": "2024-06-10",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "user": "Bob"
+  },
+  {
+    "room": "Room A",
+    "date": "2024-06-10",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "user": "Charlie"
+  },
+  {
+    "room": "Room C",
+    "date": "2024-06-11",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "user": "David"
+  },
+  {
+    "room": "Room B",
+    "date": "2024-06-11",
+    "startTime": "13:00",
+    "endTime": "14:00",
+    "user": "Eve"
+  },
+  {
+    "room": "Room A",
+    "date": "2024-06-11",
+    "startTime": "09:00",
+    "endTime": "10:00",
+    "user": "Frank"
+  }
+]
